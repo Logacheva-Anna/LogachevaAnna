@@ -1,14 +1,20 @@
 [
     {
         "id": 1,
-        "title": "UML Use Case",
-        "description": "Диаграмма прецедента",
-        "preview": "img/use-case-diagram.png"
+        "title": "IDEF0 диаграммы",
+        "description": "IDEF0 диаграммы курсового проекта",
+        "preview": "https://github.com/Logacheva-Anna/LogachevaAnna.github.io/blob/main/IDEF0/model.png"
     },
     {
         "id": 2,
-        "title": "UML Class",
-        "description": "Диаграмма классов",
-        "preview": "img/class-diagram.png"
+        "title": "DFD диаграммы",
+        "description": "DFD диаграммы курсового проекта",
+        "preview": "https://github.com/Logacheva-Anna/LogachevaAnna.github.io/blob/main/DFD/DFD_1.png"
+    },
+    {
+        "id": 3,
+        "title": "UML диаграммы",
+        "description": "UML диаграммы курсового проекта",
+        "preview": "https://github.com/Logacheva-Anna/LogachevaAnna.github.io/blob/main/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA%D0%B8/1%20%D1%81%D1%85%D0%B5%D0%BC%D0%B0.png"
     }
 ]
