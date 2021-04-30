@@ -14,15 +14,74 @@
             "type": "text",
             "data": [
                 {
-                    "text": "A-0 (контекстная диаграмма) "
+                    "text": "A-0 (контекстная диаграмма)"
                 }
             ]
         },
         {
             "type": "image",
-            "data": "https://github.com/Logacheva-Anna/LogachevaAnna/blob/master/img/IDEF0/model.png"
-        }
-            
+            "data": "img/IDEF0/model.png"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "A0 (диаграмма верхнего уровня)"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/IDEF0/model(2).png"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "A1 (декомпозиция процессов внутренней среды)"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/IDEF0/model(3).png"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "A2 (декомпозиция процессов внутренней среды)"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/IDEF0/model(4).png"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "A3 (декомпозиция процессов внутренней среды)"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/IDEF0/model(5).png"
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "A4 (декомпозиция процессов внутренней среды)"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/IDEF0/model(6).png"
+        }                        
         
     ]
 }
