@@ -1,11 +1,11 @@
 {
-    "title": "UML Use Case",
+    "title": "IDEF0 диаграммы",
     "items": [
         {
             "type": "text",
             "data": [
                 {
-                    "text": "Разработка диаграммы",
+                    "text": "IDEF0 диаграммы",
                     "class": "md-title"
                 }
             ]
@@ -14,32 +14,32 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Диаграмма создана с помощью "
+                    "text": "Диаграмма A-0 (контекстная диаграмма) "
                 },
                 {
-                    "text": "PlantUML",
-                    "link": "https://plantuml.com"
-                }
-            ]
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "PlantUML is used to draw UML diagrams, using a simple and human readable text description. Be careful, because it does not prevent you from drawing inconsistent diagrams (such as having two classes inheriting from each other, for example). So it's more a drawing tool than a modeling tool."
+                    "text": "",
+                    "link": ""
                 }
             ]
         },
         {
             "type": "image",
-            "data": "img/use-case-diagram.png"
+            "data": "https://github.com/Logacheva-Anna/Logacheva_Anna/blob/master/IDEF0/model.png"
+                {
+                    "text": ""
+                }
+            ]
+       /* },
+        {
+            "type": "Диаграмма A-0 (контекстная диаграмма)",
+            "data": 
         },
         {
-            "type": "text",
+            "type": "",
             "data": [
                 {
-                    "text": "Постусловия",
-                    "class": "md-title"
+                    "text": "",
+                    "class": ""
                 }
             ]
         },
@@ -87,7 +87,7 @@
                     {"member": "Студент", "action": "Формирует личную веб-страницу", "result": "Личная веб-страница на хостинге <имя>.github.io"},
                     {"member": "Студент", "action": "Описывает выбранный прецедент", "result": "Описание прецедента на хостинге <имя>.github.io"},
                     {"member": "Студент", "action": "Формирует диаграмму Use Case", "result": "Диаграмма прецедента на хостинге <имя>.github.io"}
-                ]
+                */]
             }
         }
     ]
