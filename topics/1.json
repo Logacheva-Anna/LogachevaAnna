@@ -10,29 +10,15 @@
                 }
             ]
         },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Диаграмма A-0 (контекстная диаграмма) "
-                },
-                {
-                    "text": "",
-                    "link": ""
-                }
-            ]
-        },
-        {
+               {
             "type": "image",
             "data": "https://github.com/Logacheva-Anna/Logacheva_Anna/blob/master/IDEF0/model.png"
-                {
-                    "text": ""
-                }
+               }  
             ]
         },
         {
             "type": "Диаграмма A-0 (контекстная диаграмма)",
-            "data": 
+            "data": [
         },
         {
             "type": "",
