@@ -32,7 +32,7 @@
         },
         {
             "type": "image",
-            "data": "img/IDEF0/model(2).png"
+            "data": "img/IDEF0/model%20(2).png"
         },
         {
             "type": "text",
@@ -44,7 +44,7 @@
         },
         {
             "type": "image",
-            "data": "img/IDEF0/model(3).png"
+            "data": "img/IDEF0/model%20(3).png"
         },
         {
             "type": "text",
@@ -56,7 +56,7 @@
         },
         {
             "type": "image",
-            "data": "img/IDEF0/model(4).png"
+            "data": "img/IDEF0/model%20(4).png"
         },
         {
             "type": "text",
@@ -68,7 +68,7 @@
         },
         {
             "type": "image",
-            "data": "img/IDEF0/model(5).png"
+            "data": "img/IDEF0/model%20(5).png"
         },
         {
             "type": "text",
@@ -80,7 +80,7 @@
         },
         {
             "type": "image",
-            "data": "img/IDEF0/model(6).png"
+            "data": "img/IDEF0/model%20(6).png"
         }                        
         
     ]
