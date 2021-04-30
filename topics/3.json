@@ -1,6 +1,83 @@
 {
-    "title": "UML Class",
+    "title": "Создание диаграмм UML курсового проекта",
     "items": [
-        
+       {
+            "type": "text",
+            "data": [
+               {
+                    "text": "Диаграмма UML Use Case",
+                    "link": "https://github.com/Logacheva-Anna/LogachevaAnna/blob/master/img/UML%20USE%20CASE/4%20%D1%81%D1%85%D0%B5%D0%BC%D0%B0.txt"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/UML%20USE%20CASE/4%20%D1%81%D1%85%D0%B5%D0%BC%D0%B0.png"
+        },
+        {
+            "type": "text",
+            "data": [
+               {
+                    "text": "ER-диаграмма потоков",
+                    "link": "https://github.com/Logacheva-Anna/LogachevaAnna/blob/master/img/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA%D0%B8/1%20%D1%81%D1%85%D0%B5%D0%BC%D0%B0.txt"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/Потоки/1%20схема.png"
+        },
+        {
+            "type": "text",
+            "data": [
+               {
+                    "text": "ER-диаграмма ролей",
+                    "link": "https://github.com/Logacheva-Anna/LogachevaAnna/blob/master/img/%D0%A0%D0%BE%D0%BB%D0%B8/2%20%D1%81%D1%85%D0%B5%D0%BC%D0%B0.txt"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/Роли/2%20схема.png"
+        },
+        {
+            "type": "text",
+            "data": [
+               {
+                    "text": "ER-диаграмма модулей",
+                    "link": "https://github.com/Logacheva-Anna/LogachevaAnna/blob/master/img/%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D0%B8/3%20%D1%81%D1%85%D0%B5%D0%BC%D0%B0.txt"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/Модули/3%20схема.png"
+        },
+        {
+            "type": "text",
+            "data": [
+               {
+                    "text": "Диаграмма UML Sequence",
+                    "link": "https://github.com/Logacheva-Anna/LogachevaAnna/blob/master/img/UML%20Sequence/5%20%D1%81%D1%85%D0%B5%D0%BC%D0%B0.txt"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/UML%20Sequence/5%20схема.png"
+        },
+        {
+            "type": "text",
+            "data": [
+               {
+                    "text": "Диаграмма UML Deployment",
+                    "link": "https://github.com/Logacheva-Anna/LogachevaAnna/blob/master/img/UML%20Deployment/6%20%D1%81%D1%85%D0%B5%D0%BC%D0%B0.txt"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/UML%20Deployment/6%20схема.png"
+        },                  
     ]
 }
