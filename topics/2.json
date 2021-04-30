@@ -3,12 +3,8 @@
     "items": [
         {
             "type": "text",
-            "data": [
-                {
-                    "text": "DFD-диаграмма"
-                }
-            ]
-        },
+            "data": []
+                },
         {
             "type": "image",
             "data": "img/DFD.png"
