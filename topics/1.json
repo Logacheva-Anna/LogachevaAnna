@@ -6,75 +6,19 @@
             "data": [
                 {
                     "text": "IDEF0 диаграммы",
-                    "class": "md-title"
+                    "class": "md-title""
                 }
-            ]
-        },
-               {
-            "type": "image",
-            "data": "https://github.com/Logacheva-Anna/Logacheva_Anna/blob/master/IDEF0/model.png"
-               }  
-            ]
-        },
-        {
-            "type": "Диаграмма A-0 (контекстная диаграмма)",
-            "data": [
-        },
-        {
-            "type": "",
-            "data": [
-                {
-                    "text": "",
-                    "class": ""
-                }
-            ]
-        },
-        {
-            "type": "list",
-            "data": [
-                [{
-                    "text": "сформирована личная страница с использованием HTML, CSS, JS"
-                }],
-                [{
-                    "text": "на личной странице зарезервированы места для описания результатов всех следующих лабораторных работ"
-                }],
-                [{
-                    "text": "ссылка на личную страницу записана в списке группы"
-                }]
-            ]
+             ]
         },
         {
             "type": "text",
             "data": [
                 {
-                    "text": "Основной поток (main flow)",
-                    "class": "md-title"
-                }
-            ]
-        },
+                    "text": "A-0 (контекстная диаграмма)"
+                },
         {
-            "type": "table",
-            "data": {
-                "columns": [
-                    {
-                        "id": "member",
-                        "name": "Участник"
-                    },
-                    {
-                        "id": "action",
-                        "name": "Действие"
-                    },
-                    {
-                        "id": "result",
-                        "name": "Ожидаемый результат"
-                    }
-                ],
-                "rows": [
-                    {"member": "Студент", "action": "Формирует личную веб-страницу", "result": "Личная веб-страница на хостинге <имя>.github.io"},
-                    {"member": "Студент", "action": "Описывает выбранный прецедент", "result": "Описание прецедента на хостинге <имя>.github.io"},
-                    {"member": "Студент", "action": "Формирует диаграмму Use Case", "result": "Диаграмма прецедента на хостинге <имя>.github.io"}
-                ]
-            }
-        }
-    ]
+            "type": "image",
+            "data": "github.com/Logacheva-Anna/Logacheva_Anna/blob/master/IDEF0/model.png"
+        },
+       
 }
