@@ -15,9 +15,10 @@
             "data": [
                 {
                     "text": "A-0 (контекстная диаграмма)"
-                },
-            ]
-        {
+                }
+                ]
+        },
+                {
             "type": "image",
             "data": "https://github.com/Logacheva-Anna/Logacheva_Anna/blob/master/IDEF0/model.png"
         }
