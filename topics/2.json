@@ -1,6 +1,17 @@
 {
-    "title": "UML Class",
+    "title": "DFD-диаграммы",
     "items": [
-        
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "A-0 (контекстная диаграмма)"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data": "img/DFD.png"
+        }
     ]
 }
